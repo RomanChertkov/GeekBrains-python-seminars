@@ -1,8 +1,8 @@
 """
-telegram bot. string cutter
+telegram bot. calculator
 """
 from telegram import Bot
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+from telegram.ext import Updater, CommandHandler
 
 
 BOT_TOKEN = "5683302678:AAFNxgTNrvdq0luZd8sxkfxuTwQsWohvgzM"
